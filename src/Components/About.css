@@ -1,0 +1,19 @@
+#about {
+  display: flex;
+  align-content: center;
+  padding: 10%;
+}
+
+img {
+  width: 80%;
+}
+
+#about-me-info {
+  text-align: left !important;
+  padding: 10%;
+}
+
+.grid-container {
+  display: grid;
+  grid-gap: 20px;
+}

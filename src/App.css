@@ -1,0 +1,15 @@
+#home-section {
+  background: url(./Images/mountain.jpg);
+  background-size: cover;
+  color: aliceblue;
+
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#contact-section {
+  padding: 4%;
+  background-color: #242946;
+  color: aliceblue;
+}

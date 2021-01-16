@@ -1,0 +1,13 @@
+#github,
+#linkedin,
+#instagram {
+  height: 150px;
+  width: 30px;
+  margin: 20px;
+}
+
+a #github,
+a #linkedin,
+a #instagram {
+  color: aliceblue;
+}

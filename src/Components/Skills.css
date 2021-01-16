@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+
+.info {
+  margin: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.skills-boxes {
+  padding: 5%;
+  margin: 10px;
+}
+
+.box {
+  display: inline-block;
+  padding: 4%;
+  width: 150px;
+}
+
+.box h5 {
+  margin-top: 14px;
+  padding: 4%;
+  font-weight: lighter;
+}
